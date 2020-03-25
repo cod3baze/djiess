@@ -2,7 +2,7 @@ import * as React from 'react'
 import { createSwitchNavigator, createAppContainer } from 'react-navigation'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import TabBarIcon from '../components/TabBarIcons'
-import { Entypo } from '@expo/vector-icons'
+// import { Entypo } from '@expo/vector-icons'
 
 import Colors from '../constants/Colors'
 

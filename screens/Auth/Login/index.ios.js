@@ -57,7 +57,7 @@ function Login({ navigation }) {
 
   async function handleSubmit() {
     if(!email || !password){
-      Alert.alert('Blank space', 'Fill in your information')
+      Alert.alert('Blank space', 'Fill in your informations')
       anime()
     }else {
       await AsyncStorage.setItem('user', email)

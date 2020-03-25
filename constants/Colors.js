@@ -20,7 +20,7 @@ const Colors = {
   GREY_PTN: '#3c3c3c',
   GREY_PIK: '#979797',
   HEADER : '#3b5999',
-  LINK_COLOR: 'rgba(138, 180, 248, 1)',
+  LINK_COLOR: 'rgba(138, 180, 248, 1)', // #8AB4F8
   MENU: '#888888',
   TRANS_T: 'rgba(0,0,0, .1)',
   WARN: "#f24",
